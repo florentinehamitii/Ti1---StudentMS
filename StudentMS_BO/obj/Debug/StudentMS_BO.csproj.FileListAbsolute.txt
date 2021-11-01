@@ -1,0 +1,14 @@
+C:\Users\MirejeteKastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_BO\bin\Debug\StudentMS_BO.exe.config
+C:\Users\MirejeteKastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_BO\bin\Debug\StudentMS_BO.exe
+C:\Users\MirejeteKastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_BO\bin\Debug\StudentMS_BO.pdb
+C:\Users\MirejeteKastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_BO\obj\Debug\StudentMS_BO.csproj.AssemblyReference.cache
+C:\Users\MirejeteKastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_BO\obj\Debug\StudentMS_BO.csproj.CoreCompileInputs.cache
+C:\Users\MirejeteKastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_BO\obj\Debug\StudentMS_BO.exe
+C:\Users\MirejeteKastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_BO\obj\Debug\StudentMS_BO.pdb
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_BO\bin\Debug\StudentMS_BO.exe.config
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_BO\bin\Debug\StudentMS_BO.exe
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_BO\bin\Debug\StudentMS_BO.pdb
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_BO\obj\Debug\StudentMS_BO.csproj.AssemblyReference.cache
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_BO\obj\Debug\StudentMS_BO.csproj.CoreCompileInputs.cache
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_BO\obj\Debug\StudentMS_BO.exe
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_BO\obj\Debug\StudentMS_BO.pdb

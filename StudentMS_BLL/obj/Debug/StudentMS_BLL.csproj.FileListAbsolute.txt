@@ -1,0 +1,28 @@
+C:\Users\MirejeteKastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_BLL\bin\Debug\StudentMS_BLL.exe.config
+C:\Users\MirejeteKastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_BLL\bin\Debug\StudentMS_BLL.exe
+C:\Users\MirejeteKastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_BLL\bin\Debug\StudentMS_BLL.pdb
+C:\Users\MirejeteKastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_BLL\bin\Debug\StudentMS_DAL.exe
+C:\Users\MirejeteKastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_BLL\bin\Debug\StudentMS_DAL.pdb
+C:\Users\MirejeteKastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_BLL\bin\Debug\StudentMS_DAL.exe.config
+C:\Users\MirejeteKastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_BLL\obj\Debug\StudentMS_BLL.csproj.AssemblyReference.cache
+C:\Users\MirejeteKastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_BLL\obj\Debug\StudentMS_BLL.csproj.CoreCompileInputs.cache
+C:\Users\MirejeteKastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_BLL\obj\Debug\StudentMS_BLL.csproj.CopyComplete
+C:\Users\MirejeteKastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_BLL\obj\Debug\StudentMS_BLL.exe
+C:\Users\MirejeteKastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_BLL\obj\Debug\StudentMS_BLL.pdb
+C:\Users\MirejeteKastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_BLL\bin\Debug\StudentMS_BO.exe
+C:\Users\MirejeteKastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_BLL\bin\Debug\StudentMS_BO.pdb
+C:\Users\MirejeteKastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_BLL\bin\Debug\StudentMS_BO.exe.config
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_BLL\bin\Debug\StudentMS_BLL.exe.config
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_BLL\bin\Debug\StudentMS_BLL.exe
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_BLL\bin\Debug\StudentMS_BLL.pdb
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_BLL\bin\Debug\StudentMS_BO.exe
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_BLL\bin\Debug\StudentMS_DAL.exe
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_BLL\bin\Debug\StudentMS_BO.pdb
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_BLL\bin\Debug\StudentMS_BO.exe.config
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_BLL\bin\Debug\StudentMS_DAL.pdb
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_BLL\bin\Debug\StudentMS_DAL.exe.config
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_BLL\obj\Debug\StudentMS_BLL.csproj.AssemblyReference.cache
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_BLL\obj\Debug\StudentMS_BLL.csproj.CoreCompileInputs.cache
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_BLL\obj\Debug\StudentMS_BLL.csproj.CopyComplete
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_BLL\obj\Debug\StudentMS_BLL.exe
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_BLL\obj\Debug\StudentMS_BLL.pdb
