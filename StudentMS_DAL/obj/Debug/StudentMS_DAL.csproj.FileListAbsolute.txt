@@ -1,0 +1,38 @@
+C:\Users\MirejeteKastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_DAL\bin\Debug\StudentMS_DAL.exe.config
+C:\Users\MirejeteKastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_DAL\bin\Debug\StudentMS_DAL.exe
+C:\Users\MirejeteKastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_DAL\bin\Debug\StudentMS_DAL.pdb
+C:\Users\MirejeteKastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\MirejeteKastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_DAL\bin\Debug\System.Security.AccessControl.dll
+C:\Users\MirejeteKastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_DAL\bin\Debug\System.Security.Permissions.dll
+C:\Users\MirejeteKastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_DAL\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\MirejeteKastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\MirejeteKastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_DAL\bin\Debug\System.Security.AccessControl.xml
+C:\Users\MirejeteKastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_DAL\bin\Debug\System.Security.Permissions.xml
+C:\Users\MirejeteKastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_DAL\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\MirejeteKastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_DAL\obj\Debug\StudentMS_DAL.csproj.AssemblyReference.cache
+C:\Users\MirejeteKastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_DAL\obj\Debug\StudentMS_DAL.csproj.CoreCompileInputs.cache
+C:\Users\MirejeteKastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_DAL\obj\Debug\StudentMS_DAL.csproj.CopyComplete
+C:\Users\MirejeteKastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_DAL\obj\Debug\StudentMS_DAL.exe
+C:\Users\MirejeteKastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_DAL\obj\Debug\StudentMS_DAL.pdb
+C:\Users\MirejeteKastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_DAL\bin\Debug\StudentMS_BO.exe
+C:\Users\MirejeteKastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_DAL\bin\Debug\StudentMS_BO.pdb
+C:\Users\MirejeteKastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_DAL\bin\Debug\StudentMS_BO.exe.config
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_DAL\bin\Debug\StudentMS_DAL.exe.config
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_DAL\bin\Debug\StudentMS_DAL.exe
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_DAL\bin\Debug\StudentMS_DAL.pdb
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_DAL\bin\Debug\StudentMS_BO.exe
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_DAL\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_DAL\bin\Debug\System.Security.Permissions.dll
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_DAL\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_DAL\bin\Debug\StudentMS_BO.pdb
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_DAL\bin\Debug\StudentMS_BO.exe.config
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_DAL\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_DAL\bin\Debug\System.Security.Permissions.xml
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_DAL\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_DAL\obj\Debug\StudentMS_DAL.csproj.AssemblyReference.cache
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_DAL\obj\Debug\StudentMS_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_DAL\obj\Debug\StudentMS_DAL.csproj.CopyComplete
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_DAL\obj\Debug\StudentMS_DAL.exe
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_DAL\obj\Debug\StudentMS_DAL.pdb
