@@ -54,3 +54,4 @@ C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\Stud
 C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentMS_DAL\obj\Debug\StudentMS_DAL.csproj.CoreCompileInputs.cache
 C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentMS_DAL\obj\Debug\StudentMS_DAL.exe
 C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentMS_DAL\obj\Debug\StudentMS_DAL.pdb
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentMS_DAL\obj\Debug\StudentMS_DAL.csproj.CopyComplete

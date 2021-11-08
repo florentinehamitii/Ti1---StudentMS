@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace StudentMS_BO
 {
-    class StudentBO:Base
+    public class StudentBO:Base
     {
         public int StudentID { get; set; }
         public string Emri { get; set; }

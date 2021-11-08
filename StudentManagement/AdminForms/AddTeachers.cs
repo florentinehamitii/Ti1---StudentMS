@@ -8,7 +8,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+using StudentMS_BO;
+using StudentMS_DAL;
 namespace StudentManagement.AdminForms
 {
     public partial class AddTeachers : Form
@@ -37,6 +38,11 @@ namespace StudentManagement.AdminForms
                 pbTchImg.Image = Image.FromFile(openD.FileName);//shtojme foton te pic box
                 
             }
+        }
+
+        private void btnSaveTch_Click(object sender, EventArgs e)
+        {
+            TeacherBO tchBO = new TeacherBO(txtEmri.Text, txtMbiemri.Text, txtEmail.Text, txtNrTel.Text,txtOrePune.Text );
         }
     }
 }

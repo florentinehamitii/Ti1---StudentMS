@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace StudentMS_BO
 {
-    class ClassBO: Base
+  public  class ClassBO: Base
     {
         public int ClassID { get; set; }
         public int CourseID { get; set; }

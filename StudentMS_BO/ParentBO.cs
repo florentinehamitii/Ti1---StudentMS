@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace StudentMS_BO
 {
-    class ParentBO: Base
+    public class ParentBO: Base
     {
         public int ParentID { get; set; }
         public string EmriBabit { get; set; }

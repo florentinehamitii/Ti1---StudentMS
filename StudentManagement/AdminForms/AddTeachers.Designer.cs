@@ -37,22 +37,22 @@ namespace StudentManagement.AdminForms
             this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.textBox4 = new System.Windows.Forms.TextBox();
-            this.textBox5 = new System.Windows.Forms.TextBox();
-            this.textBox6 = new System.Windows.Forms.TextBox();
-            this.textBox7 = new System.Windows.Forms.TextBox();
+            this.txtEmri = new System.Windows.Forms.TextBox();
+            this.txtMbiemri = new System.Windows.Forms.TextBox();
+            this.txtAdresa = new System.Windows.Forms.TextBox();
+            this.txtEmail = new System.Windows.Forms.TextBox();
+            this.txtNrTel = new System.Windows.Forms.TextBox();
+            this.txtSpecializimi = new System.Windows.Forms.TextBox();
+            this.txtOrePune = new System.Windows.Forms.TextBox();
             this.radioF = new System.Windows.Forms.RadioButton();
             this.radioButton1 = new System.Windows.Forms.RadioButton();
             this.radioButton2 = new System.Windows.Forms.RadioButton();
             this.label9 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
+            this.btnSaveTch = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.lblIntro = new System.Windows.Forms.Label();
             this.label10 = new System.Windows.Forms.Label();
-            this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
+            this.dtDatelindja = new System.Windows.Forms.DateTimePicker();
             this.pbTchImg = new System.Windows.Forms.PictureBox();
             this.btnAddTchImg = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pbTchImg)).BeginInit();
@@ -130,54 +130,54 @@ namespace StudentManagement.AdminForms
             this.label8.TabIndex = 7;
             this.label8.Text = "Orë pune:";
             // 
-            // textBox1
+            // txtEmri
             // 
-            this.textBox1.Location = new System.Drawing.Point(103, 244);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(143, 20);
-            this.textBox1.TabIndex = 8;
+            this.txtEmri.Location = new System.Drawing.Point(103, 244);
+            this.txtEmri.Name = "txtEmri";
+            this.txtEmri.Size = new System.Drawing.Size(143, 20);
+            this.txtEmri.TabIndex = 8;
             // 
-            // textBox2
+            // txtMbiemri
             // 
-            this.textBox2.Location = new System.Drawing.Point(104, 276);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(142, 20);
-            this.textBox2.TabIndex = 9;
+            this.txtMbiemri.Location = new System.Drawing.Point(104, 276);
+            this.txtMbiemri.Name = "txtMbiemri";
+            this.txtMbiemri.Size = new System.Drawing.Size(142, 20);
+            this.txtMbiemri.TabIndex = 9;
             // 
-            // textBox3
+            // txtAdresa
             // 
-            this.textBox3.Location = new System.Drawing.Point(374, 139);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(142, 20);
-            this.textBox3.TabIndex = 10;
+            this.txtAdresa.Location = new System.Drawing.Point(374, 139);
+            this.txtAdresa.Name = "txtAdresa";
+            this.txtAdresa.Size = new System.Drawing.Size(142, 20);
+            this.txtAdresa.TabIndex = 10;
             // 
-            // textBox4
+            // txtEmail
             // 
-            this.textBox4.Location = new System.Drawing.Point(373, 179);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(143, 20);
-            this.textBox4.TabIndex = 11;
+            this.txtEmail.Location = new System.Drawing.Point(373, 179);
+            this.txtEmail.Name = "txtEmail";
+            this.txtEmail.Size = new System.Drawing.Size(143, 20);
+            this.txtEmail.TabIndex = 11;
             // 
-            // textBox5
+            // txtNrTel
             // 
-            this.textBox5.Location = new System.Drawing.Point(374, 214);
-            this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(142, 20);
-            this.textBox5.TabIndex = 12;
+            this.txtNrTel.Location = new System.Drawing.Point(374, 214);
+            this.txtNrTel.Name = "txtNrTel";
+            this.txtNrTel.Size = new System.Drawing.Size(142, 20);
+            this.txtNrTel.TabIndex = 12;
             // 
-            // textBox6
+            // txtSpecializimi
             // 
-            this.textBox6.Location = new System.Drawing.Point(373, 260);
-            this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(142, 20);
-            this.textBox6.TabIndex = 13;
+            this.txtSpecializimi.Location = new System.Drawing.Point(373, 260);
+            this.txtSpecializimi.Name = "txtSpecializimi";
+            this.txtSpecializimi.Size = new System.Drawing.Size(142, 20);
+            this.txtSpecializimi.TabIndex = 13;
             // 
-            // textBox7
+            // txtOrePune
             // 
-            this.textBox7.Location = new System.Drawing.Point(373, 299);
-            this.textBox7.Name = "textBox7";
-            this.textBox7.Size = new System.Drawing.Size(82, 20);
-            this.textBox7.TabIndex = 14;
+            this.txtOrePune.Location = new System.Drawing.Point(373, 299);
+            this.txtOrePune.Name = "txtOrePune";
+            this.txtOrePune.Size = new System.Drawing.Size(82, 20);
+            this.txtOrePune.TabIndex = 14;
             // 
             // radioF
             // 
@@ -221,20 +221,21 @@ namespace StudentManagement.AdminForms
             this.label9.TabIndex = 17;
             this.label9.Text = "në javë.";
             // 
-            // button1
+            // btnSaveTch
             // 
-            this.button1.FlatAppearance.BorderColor = System.Drawing.Color.Black;
-            this.button1.FlatAppearance.BorderSize = 2;
-            this.button1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(179)))), ((int)(((byte)(153)))), ((int)(((byte)(162)))));
-            this.button1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(223)))), ((int)(((byte)(182)))), ((int)(((byte)(178)))));
-            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button1.ForeColor = System.Drawing.Color.Black;
-            this.button1.Location = new System.Drawing.Point(468, 374);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(93, 28);
-            this.button1.TabIndex = 18;
-            this.button1.Text = "SAVE";
-            this.button1.UseVisualStyleBackColor = true;
+            this.btnSaveTch.FlatAppearance.BorderColor = System.Drawing.Color.Black;
+            this.btnSaveTch.FlatAppearance.BorderSize = 2;
+            this.btnSaveTch.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(179)))), ((int)(((byte)(153)))), ((int)(((byte)(162)))));
+            this.btnSaveTch.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(223)))), ((int)(((byte)(182)))), ((int)(((byte)(178)))));
+            this.btnSaveTch.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnSaveTch.ForeColor = System.Drawing.Color.Black;
+            this.btnSaveTch.Location = new System.Drawing.Point(468, 374);
+            this.btnSaveTch.Name = "btnSaveTch";
+            this.btnSaveTch.Size = new System.Drawing.Size(93, 28);
+            this.btnSaveTch.TabIndex = 18;
+            this.btnSaveTch.Text = "SAVE";
+            this.btnSaveTch.UseVisualStyleBackColor = true;
+            this.btnSaveTch.Click += new System.EventHandler(this.btnSaveTch_Click);
             // 
             // button2
             // 
@@ -272,13 +273,13 @@ namespace StudentManagement.AdminForms
             this.label10.TabIndex = 21;
             this.label10.Text = "Datelindja:";
             // 
-            // dateTimePicker1
+            // dtDatelindja
             // 
-            this.dateTimePicker1.Location = new System.Drawing.Point(374, 104);
-            this.dateTimePicker1.Name = "dateTimePicker1";
-            this.dateTimePicker1.Size = new System.Drawing.Size(142, 20);
-            this.dateTimePicker1.TabIndex = 22;
-            this.dateTimePicker1.Value = new System.DateTime(2021, 10, 18, 10, 12, 31, 0);
+            this.dtDatelindja.Location = new System.Drawing.Point(374, 104);
+            this.dtDatelindja.Name = "dtDatelindja";
+            this.dtDatelindja.Size = new System.Drawing.Size(142, 20);
+            this.dtDatelindja.TabIndex = 22;
+            this.dtDatelindja.Value = new System.DateTime(2021, 10, 18, 10, 12, 31, 0);
             // 
             // pbTchImg
             // 
@@ -305,22 +306,22 @@ namespace StudentManagement.AdminForms
             this.ClientSize = new System.Drawing.Size(603, 449);
             this.Controls.Add(this.btnAddTchImg);
             this.Controls.Add(this.pbTchImg);
-            this.Controls.Add(this.dateTimePicker1);
+            this.Controls.Add(this.dtDatelindja);
             this.Controls.Add(this.label10);
             this.Controls.Add(this.lblIntro);
             this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.btnSaveTch);
             this.Controls.Add(this.label9);
             this.Controls.Add(this.radioButton2);
             this.Controls.Add(this.radioButton1);
             this.Controls.Add(this.radioF);
-            this.Controls.Add(this.textBox7);
-            this.Controls.Add(this.textBox6);
-            this.Controls.Add(this.textBox5);
-            this.Controls.Add(this.textBox4);
-            this.Controls.Add(this.textBox3);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtOrePune);
+            this.Controls.Add(this.txtSpecializimi);
+            this.Controls.Add(this.txtNrTel);
+            this.Controls.Add(this.txtEmail);
+            this.Controls.Add(this.txtAdresa);
+            this.Controls.Add(this.txtMbiemri);
+            this.Controls.Add(this.txtEmri);
             this.Controls.Add(this.label8);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label6);
@@ -351,22 +352,22 @@ namespace StudentManagement.AdminForms
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.TextBox textBox4;
-        private System.Windows.Forms.TextBox textBox5;
-        private System.Windows.Forms.TextBox textBox6;
-        private System.Windows.Forms.TextBox textBox7;
+        private System.Windows.Forms.TextBox txtEmri;
+        private System.Windows.Forms.TextBox txtMbiemri;
+        private System.Windows.Forms.TextBox txtAdresa;
+        private System.Windows.Forms.TextBox txtEmail;
+        private System.Windows.Forms.TextBox txtNrTel;
+        private System.Windows.Forms.TextBox txtSpecializimi;
+        private System.Windows.Forms.TextBox txtOrePune;
         private System.Windows.Forms.RadioButton radioF;
         private System.Windows.Forms.RadioButton radioButton1;
         private System.Windows.Forms.RadioButton radioButton2;
         private System.Windows.Forms.Label label9;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btnSaveTch;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Label lblIntro;
         private System.Windows.Forms.Label label10;
-        private System.Windows.Forms.DateTimePicker dateTimePicker1;
+        private System.Windows.Forms.DateTimePicker dtDatelindja;
         private System.Windows.Forms.PictureBox pbTchImg;
         private System.Windows.Forms.Button btnAddTchImg;
     }
