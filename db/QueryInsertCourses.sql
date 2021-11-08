@@ -1,13 +1,2 @@
-Create procedure usp_InsertCourses(
-@Titulli nvarchar(100),
-@Sessionet int,
-@InsertBy nvarchar(1),
-@InsertDate Date)
-as
-insert into Courses(
-Titulli,
-Sessionet,
-InsertBy,
-InsertDate)
-Values(@Titulli,@Sessionet,@InsertBy,@InsertDate)
+Create procedure usp_GetLogInCredentials("SELECT COUNT(*) FROM login WHERE username='"+ textBox1.Text +"' AND password='"+ textBox2.Text +"'",con)
 go

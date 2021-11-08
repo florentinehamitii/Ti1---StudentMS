@@ -212,5 +212,10 @@ namespace StudentManagement.AdminForms
             delCourse.Dock = DockStyle.Fill;
             delCourse.Show();
         }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
