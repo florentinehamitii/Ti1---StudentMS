@@ -58,3 +58,64 @@ C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMana
 C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentManagement\obj\Debug\StudentManagement.csproj.CopyComplete
 C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentManagement\obj\Debug\StudentManagement.exe
 C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentManagement\obj\Debug\StudentManagement.pdb
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\bin\Debug\StudentManagement.exe.config
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\bin\Debug\StudentManagement.exe
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\bin\Debug\StudentManagement.pdb
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\bin\Debug\StudentMS_BLL.exe
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\bin\Debug\StudentMS_BO.exe
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\bin\Debug\StudentMS_DAL.exe
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\bin\Debug\StudentMS_BLL.pdb
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\bin\Debug\StudentMS_BLL.exe.config
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\bin\Debug\StudentMS_BO.pdb
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\bin\Debug\StudentMS_BO.exe.config
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\bin\Debug\StudentMS_DAL.pdb
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\bin\Debug\StudentMS_DAL.exe.config
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\obj\Debug\StudentManagement.csproj.AssemblyReference.cache
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\obj\Debug\StudentManagement.AdminForms.AddCourses.resources
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\obj\Debug\StudentManagement.AdminForms.AddTeachers.resources
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\obj\Debug\StudentManagement.AdminForms.AdminView.resources
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\obj\Debug\StudentManagement.AdminForms.DeleteCourses.resources
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\obj\Debug\StudentManagement.AdminForms.DeleteTeachers.resources
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\obj\Debug\StudentManagement.AdminForms.UpdateCourses.resources
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\obj\Debug\StudentManagement.AdminForms.UpdateTeachers.resources
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\obj\Debug\StudentManagement.FirstForm.resources
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\obj\Debug\StudentManagement.LogIn.resources
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\obj\Debug\StudentManagement.TeacherForms.TeacherView.resources
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\obj\Debug\StudentManagement.Form1.resources
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\obj\Debug\StudentManagement.Properties.Resources.resources
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\obj\Debug\StudentManagement.csproj.GenerateResource.cache
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\obj\Debug\StudentManagement.csproj.CoreCompileInputs.cache
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\obj\Debug\StudentManagement.exe
+C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\obj\Debug\StudentManagement.pdb
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\bin\Debug\StudentManagement.exe.config
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\bin\Debug\StudentManagement.exe
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\bin\Debug\StudentManagement.pdb
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\bin\Debug\StudentMS_BLL.exe
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\bin\Debug\StudentMS_BO.exe
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\bin\Debug\StudentMS_DAL.exe
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\bin\Debug\StudentMS_BLL.pdb
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\bin\Debug\StudentMS_BLL.exe.config
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\bin\Debug\StudentMS_BO.pdb
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\bin\Debug\StudentMS_BO.exe.config
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\bin\Debug\StudentMS_DAL.pdb
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\bin\Debug\StudentMS_DAL.exe.config
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\obj\Debug\StudentManagement.csproj.AssemblyReference.cache
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\obj\Debug\StudentManagement.AdminForms.AddCourses.resources
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\obj\Debug\StudentManagement.AdminForms.AddTeachers.resources
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\obj\Debug\StudentManagement.AdminForms.AdminView.resources
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\obj\Debug\StudentManagement.AdminForms.DeleteCourses.resources
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\obj\Debug\StudentManagement.AdminForms.DeleteTeachers.resources
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\obj\Debug\StudentManagement.AdminForms.UpdateCourses.resources
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\obj\Debug\StudentManagement.AdminForms.UpdateTeachers.resources
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\obj\Debug\StudentManagement.FirstForm.resources
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\obj\Debug\StudentManagement.MainForms.LogIn.resources
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\obj\Debug\StudentManagement.LogIn.resources
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\obj\Debug\StudentManagement.TeacherForms.TeacherView.resources
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\obj\Debug\StudentManagement.Form1.resources
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\obj\Debug\StudentManagement.Properties.Resources.resources
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\obj\Debug\StudentManagement.csproj.GenerateResource.cache
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\obj\Debug\StudentManagement.csproj.CoreCompileInputs.cache
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\obj\Debug\StudentManagement.exe
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\obj\Debug\StudentManagement.pdb
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\obj\Debug\StudentManagement.MainForms.MenuLogin.resources
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentManagement\obj\Debug\StudentManagement.MainForms.FormFirst.resources

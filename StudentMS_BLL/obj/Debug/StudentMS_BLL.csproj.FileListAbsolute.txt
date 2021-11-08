@@ -26,3 +26,17 @@ C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_B
 C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_BLL\obj\Debug\StudentMS_BLL.csproj.CopyComplete
 C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_BLL\obj\Debug\StudentMS_BLL.exe
 C:\Users\Mirejete Kastrati\Desktop\MirejeteKastrati\Proffesional\TI1\StudentMS_BLL\obj\Debug\StudentMS_BLL.pdb
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentMS_BLL\bin\Debug\StudentMS_BLL.exe.config
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentMS_BLL\bin\Debug\StudentMS_BLL.exe
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentMS_BLL\bin\Debug\StudentMS_BLL.pdb
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentMS_BLL\bin\Debug\StudentMS_BO.exe
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentMS_BLL\bin\Debug\StudentMS_DAL.exe
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentMS_BLL\bin\Debug\StudentMS_BO.pdb
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentMS_BLL\bin\Debug\StudentMS_BO.exe.config
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentMS_BLL\bin\Debug\StudentMS_DAL.pdb
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentMS_BLL\bin\Debug\StudentMS_DAL.exe.config
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentMS_BLL\obj\Debug\StudentMS_BLL.csproj.AssemblyReference.cache
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentMS_BLL\obj\Debug\StudentMS_BLL.csproj.CoreCompileInputs.cache
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentMS_BLL\obj\Debug\StudentMS_BLL.csproj.CopyComplete
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentMS_BLL\obj\Debug\StudentMS_BLL.exe
+C:\Users\Mirejeta\Desktop\MirejeteKastrati\Proffesional\TI1\Ti1---StudentMS\StudentMS_BLL\obj\Debug\StudentMS_BLL.pdb

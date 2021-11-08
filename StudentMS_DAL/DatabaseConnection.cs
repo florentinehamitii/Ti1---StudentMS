@@ -8,7 +8,7 @@ using System.Data.SqlClient;
 
 namespace StudentMS_DAL
 {
-    class DatabaseConnection
+   public class DatabaseConnection
     {
         public static string connString = ConfigurationManager.ConnectionStrings["connStringMirejete"].ConnectionString.ToString();
         public static SqlConnection conn;

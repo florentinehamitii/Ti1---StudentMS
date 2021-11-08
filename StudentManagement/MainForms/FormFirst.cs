@@ -8,23 +8,21 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace StudentManagement
+namespace StudentManagement.MainForms
 {
-    public partial class FirstForm : Form
+    public partial class FormFirst : Form
     {
-        public FirstForm()
+        public FormFirst()
         {
             InitializeComponent();
         }
-
         MainForms.MenuLogin menuLogIn = new MainForms.MenuLogin();
 
-        private void button1_Click(object sender, EventArgs e)
+
+        private void btnContinue_Click(object sender, EventArgs e)
         {
             this.Hide();
             menuLogIn.Show();
-
-
         }
     }
 }

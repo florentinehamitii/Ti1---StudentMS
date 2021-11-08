@@ -38,15 +38,16 @@ namespace StudentManagement.AdminForms
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
+            this.folderBrowserDialog1 = new System.Windows.Forms.FolderBrowserDialog();
             this.SuspendLayout();
             // 
             // lblIntro
             // 
             this.lblIntro.AutoSize = true;
-            this.lblIntro.Font = new System.Drawing.Font("Montserrat", 10.25F);
+            this.lblIntro.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
             this.lblIntro.Location = new System.Drawing.Point(93, 57);
             this.lblIntro.Name = "lblIntro";
-            this.lblIntro.Size = new System.Drawing.Size(223, 20);
+            this.lblIntro.Size = new System.Drawing.Size(198, 17);
             this.lblIntro.TabIndex = 0;
             this.lblIntro.Text = "Shkruaj informatat për kursin :";
             // 
@@ -55,7 +56,7 @@ namespace StudentManagement.AdminForms
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(162, 130);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(36, 15);
+            this.label1.Size = new System.Drawing.Size(31, 13);
             this.label1.TabIndex = 1;
             this.label1.Text = "Titulli";
             // 
@@ -64,7 +65,7 @@ namespace StudentManagement.AdminForms
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(129, 165);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(69, 15);
+            this.label2.Size = new System.Drawing.Size(58, 13);
             this.label2.TabIndex = 2;
             this.label2.Text = "Përshkrimi:";
             // 
@@ -73,7 +74,7 @@ namespace StudentManagement.AdminForms
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(93, 287);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(107, 15);
+            this.label3.Size = new System.Drawing.Size(93, 13);
             this.label3.TabIndex = 3;
             this.label3.Text = "Numri i sesioneve:";
             // 
@@ -89,14 +90,14 @@ namespace StudentManagement.AdminForms
             // 
             this.textBox1.Location = new System.Drawing.Point(223, 124);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(160, 21);
+            this.textBox1.Size = new System.Drawing.Size(160, 20);
             this.textBox1.TabIndex = 5;
             // 
             // textBox2
             // 
             this.textBox2.Location = new System.Drawing.Point(223, 281);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(160, 21);
+            this.textBox2.Size = new System.Drawing.Size(160, 20);
             this.textBox2.TabIndex = 6;
             // 
             // label4
@@ -104,7 +105,7 @@ namespace StudentManagement.AdminForms
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(144, 333);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(56, 15);
+            this.label4.Size = new System.Drawing.Size(51, 13);
             this.label4.TabIndex = 7;
             this.label4.Text = "Syllabusi:";
             // 
@@ -125,7 +126,7 @@ namespace StudentManagement.AdminForms
             // 
             // AddCourses
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(194)))), ((int)(((byte)(234)))), ((int)(((byte)(189)))));
             this.ClientSize = new System.Drawing.Size(603, 449);
@@ -138,7 +139,7 @@ namespace StudentManagement.AdminForms
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.lblIntro);
-            this.Font = new System.Drawing.Font("Montserrat", 8.25F);
+            this.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
             this.ForeColor = System.Drawing.SystemColors.ControlText;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.MaximizeBox = false;
@@ -163,5 +164,6 @@ namespace StudentManagement.AdminForms
         private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.FolderBrowserDialog folderBrowserDialog1;
     }
 }

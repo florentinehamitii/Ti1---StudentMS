@@ -34,8 +34,8 @@ namespace StudentManagement.AdminForms
                 Image img = Image.FromFile(openD.FileName);
                 MemoryStream ms = new MemoryStream();
                 img.Save(ms, img.RawFormat);
-                pbTchImg.Image = Image.FromFile(openD.FileName);
-                //https://drive.google.com/file/d/1H5_aRf0BQ0bX3XgibXCo6uJLjAVUpnhT/view 14:50
+                pbTchImg.Image = Image.FromFile(openD.FileName);//shtojme foton te pic box
+                
             }
         }
     }

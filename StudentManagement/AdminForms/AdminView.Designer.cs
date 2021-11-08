@@ -63,22 +63,22 @@ namespace StudentManagement.AdminForms
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Montserrat SemiBold", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.LightGreen;
             this.label2.Location = new System.Drawing.Point(56, 271);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(91, 26);
+            this.label2.Size = new System.Drawing.Size(87, 24);
             this.label2.TabIndex = 8;
             this.label2.Text = "Courses";
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Montserrat SemiBold", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.LightSalmon;
             this.label1.Location = new System.Drawing.Point(47, 78);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(100, 26);
+            this.label1.Size = new System.Drawing.Size(98, 24);
             this.label1.TabIndex = 7;
             this.label1.Text = "Teachers";
             // 
@@ -87,7 +87,7 @@ namespace StudentManagement.AdminForms
             this.btnDeleteCourses.FlatAppearance.BorderColor = System.Drawing.Color.White;
             this.btnDeleteCourses.FlatAppearance.BorderSize = 0;
             this.btnDeleteCourses.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnDeleteCourses.Font = new System.Drawing.Font("Montserrat", 14F);
+            this.btnDeleteCourses.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
             this.btnDeleteCourses.ForeColor = System.Drawing.Color.White;
             this.btnDeleteCourses.Location = new System.Drawing.Point(11, 408);
             this.btnDeleteCourses.Name = "btnDeleteCourses";
@@ -102,7 +102,7 @@ namespace StudentManagement.AdminForms
             this.btnDelTeachers.FlatAppearance.BorderColor = System.Drawing.Color.White;
             this.btnDelTeachers.FlatAppearance.BorderSize = 0;
             this.btnDelTeachers.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnDelTeachers.Font = new System.Drawing.Font("Montserrat", 14F);
+            this.btnDelTeachers.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
             this.btnDelTeachers.ForeColor = System.Drawing.Color.White;
             this.btnDelTeachers.Location = new System.Drawing.Point(12, 189);
             this.btnDelTeachers.Name = "btnDelTeachers";
@@ -117,7 +117,7 @@ namespace StudentManagement.AdminForms
             this.btnUpdateTeachers.FlatAppearance.BorderColor = System.Drawing.Color.White;
             this.btnUpdateTeachers.FlatAppearance.BorderSize = 0;
             this.btnUpdateTeachers.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnUpdateTeachers.Font = new System.Drawing.Font("Montserrat", 14F);
+            this.btnUpdateTeachers.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
             this.btnUpdateTeachers.ForeColor = System.Drawing.Color.White;
             this.btnUpdateTeachers.Location = new System.Drawing.Point(12, 148);
             this.btnUpdateTeachers.Name = "btnUpdateTeachers";
@@ -132,7 +132,7 @@ namespace StudentManagement.AdminForms
             this.btnAddCourses.FlatAppearance.BorderColor = System.Drawing.Color.White;
             this.btnAddCourses.FlatAppearance.BorderSize = 0;
             this.btnAddCourses.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnAddCourses.Font = new System.Drawing.Font("Montserrat", 14F);
+            this.btnAddCourses.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
             this.btnAddCourses.ForeColor = System.Drawing.Color.White;
             this.btnAddCourses.Location = new System.Drawing.Point(11, 326);
             this.btnAddCourses.Name = "btnAddCourses";
@@ -147,7 +147,7 @@ namespace StudentManagement.AdminForms
             this.btnUpdateCourses.FlatAppearance.BorderColor = System.Drawing.Color.White;
             this.btnUpdateCourses.FlatAppearance.BorderSize = 0;
             this.btnUpdateCourses.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnUpdateCourses.Font = new System.Drawing.Font("Montserrat", 14F);
+            this.btnUpdateCourses.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
             this.btnUpdateCourses.ForeColor = System.Drawing.Color.White;
             this.btnUpdateCourses.Location = new System.Drawing.Point(11, 367);
             this.btnUpdateCourses.Name = "btnUpdateCourses";
@@ -162,7 +162,7 @@ namespace StudentManagement.AdminForms
             this.btnAddTeachers.FlatAppearance.BorderColor = System.Drawing.Color.White;
             this.btnAddTeachers.FlatAppearance.BorderSize = 0;
             this.btnAddTeachers.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnAddTeachers.Font = new System.Drawing.Font("Montserrat", 14F);
+            this.btnAddTeachers.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
             this.btnAddTeachers.ForeColor = System.Drawing.Color.White;
             this.btnAddTeachers.Location = new System.Drawing.Point(12, 107);
             this.btnAddTeachers.Name = "btnAddTeachers";
@@ -199,6 +199,7 @@ namespace StudentManagement.AdminForms
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(189, 450);
             this.panel1.TabIndex = 3;
+            this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
             // AdminView
             // 
@@ -207,6 +208,7 @@ namespace StudentManagement.AdminForms
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.pnlContent);
+            this.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
             this.Name = "AdminView";
             this.Text = "AdminView";
             this.panel1.ResumeLayout(false);

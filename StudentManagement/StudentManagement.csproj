@@ -94,11 +94,29 @@
     <Compile Include="MainForms\FirstForm.Designer.cs">
       <DependentUpon>FirstForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="MainForms\FormFirst.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForms\FormFirst.Designer.cs">
+      <DependentUpon>FormFirst.cs</DependentUpon>
+    </Compile>
     <Compile Include="MainForms\LogIn.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="MainForms\LogIn.Designer.cs">
       <DependentUpon>LogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForms\LogInMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForms\LogInMenu.Designer.cs">
+      <DependentUpon>LogInMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForms\MenuLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForms\MenuLogin.Designer.cs">
+      <DependentUpon>MenuLogin.cs</DependentUpon>
     </Compile>
     <Compile Include="TeacherForms\AddGrades.cs">
       <SubType>Form</SubType>
@@ -162,8 +180,17 @@
     <EmbeddedResource Include="MainForms\FirstForm.resx">
       <DependentUpon>FirstForm.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="MainForms\FormFirst.resx">
+      <DependentUpon>FormFirst.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="MainForms\LogIn.resx">
       <DependentUpon>LogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForms\LogInMenu.resx">
+      <DependentUpon>LogInMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForms\MenuLogin.resx">
+      <DependentUpon>MenuLogin.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="TeacherForms\TeacherView.resx">
       <DependentUpon>TeacherView.cs</DependentUpon>
@@ -208,7 +235,9 @@
       <Name>StudentMS_DAL</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <None Include="Resources\giphy.gif" />
+  </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Capture-removebg-preview.png" />
   </ItemGroup>
